@@ -1,0 +1,2 @@
+# Commodity-Derivatives-Pricing-Engine-Forward-Curves-Multi-Currency-Valuation-Supply-Demand-Analytics
+Production-ready Python system for pricing commodity forwards/futures  across 8 commodities and 5 currencies. Implements cost-of-carry models,  convenience yield analysis, and supply shock scenarios used by commodity  trading desks at Jane Street, oil majors, and regulated by exchanges  (SEBI/CFTC). Results validated against academic research.
